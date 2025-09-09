@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+.env/
+env/
+.ipynb_checkpoints/
+
+# Jupyter Notebooks
+*.ipynb_checkpoints/
+
+# VSCode / Cursor
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+
+# Data & model files
+data/raw/
+data/processed/
+models/
+outputs/
+
+# Jupyter runtime
+*.checkpoint
